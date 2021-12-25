@@ -1,0 +1,8 @@
+5
+10 20 30 40 70
+5
+displayMax
+insert 50
+insert 15
+deleteMax
+display

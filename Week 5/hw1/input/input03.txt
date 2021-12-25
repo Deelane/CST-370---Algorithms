@@ -1,0 +1,6 @@
+12
+99 50 88 22 44 66 77 2 11 5 3 100
+3
+display
+deleteMax
+displayMax

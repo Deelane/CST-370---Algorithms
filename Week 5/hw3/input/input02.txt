@@ -1,0 +1,10 @@
+97
+8
+insert 97
+tableSize
+insert 1000
+insert 2000
+insert 3000
+insert 4000
+displayStatus 0
+displayStatus 1

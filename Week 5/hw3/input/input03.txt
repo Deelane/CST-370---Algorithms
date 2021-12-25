@@ -1,0 +1,9 @@
+29
+7
+insert 30
+insert 31
+insert 32
+insert 33
+insert 34
+search 31
+displayStatus 2

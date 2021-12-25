@@ -1,0 +1,7 @@
+11
+99 55 88 44 33 66 77 22 11 5 3
+4
+insert 200
+display
+insert 100
+display

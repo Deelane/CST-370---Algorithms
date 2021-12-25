@@ -1,0 +1,9 @@
+7
+7
+insert 100
+insert 16
+insert 37
+displayStatus 3
+displayStatus 2
+search 37
+tableSize

@@ -1,0 +1,12 @@
+5
+10
+insert 17
+insert 12
+displayStatus 2
+tableSize
+insert 20
+tableSize
+search 20
+search 15
+displayStatus 1
+displayStatus 2
