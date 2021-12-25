@@ -1,0 +1,4 @@
+Min Distance:2
+Pair:3 5
+Pair:10 12
+Pair:12 14

@@ -1,0 +1,2 @@
+Frequency:3
+Number:20 5

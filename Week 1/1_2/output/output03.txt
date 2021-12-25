@@ -1,0 +1,2 @@
+Frequency:5
+Number:55 45 25 15

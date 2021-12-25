@@ -1,0 +1,2 @@
+Min Distance:1
+Pair:7 8
