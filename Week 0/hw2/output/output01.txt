@@ -1,0 +1,3 @@
+MIN:-300
+MAX:75
+MEDIAN:2
