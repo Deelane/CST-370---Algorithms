@@ -1,6 +1,6 @@
 /*
 Title: hw2_3.cpp
-Abstract: This program checks if an input string is a palindrome or not.
+Abstract: This program reads the number of input values from a user and then the input values themselves. After that, the numbers are displayed in ascending order. Consecutive numbers are displayed using a shorter representation. For example, if there are three numbers such as 51, 52, and 53 in the input values, they are displayed as 51–53 to save space.
 Author: Delaney N.
 ID: 1117
 Date: 11/9/21
