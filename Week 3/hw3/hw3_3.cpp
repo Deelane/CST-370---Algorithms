@@ -1,3 +1,10 @@
+/*
+Title: hw3_3.cpp
+Abstract: This program implements the Depth-First Search (DFS) algorithm using a stack and a mark array.
+Author: Delaney N.
+ID: 1117
+Date: 11/17/21
+*/
 #include <iostream> 
 #include <list>
 #include <bits/stdc++.h>
