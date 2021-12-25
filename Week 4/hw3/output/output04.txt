@@ -1,0 +1,9 @@
+In-degree[0]:0
+In-degree[1]:1
+In-degree[2]:0
+In-degree[3]:1
+In-degree[4]:1
+In-degree[5]:2
+In-degree[6]:2
+In-degree[7]:2
+Order:0->2->1->4->3->5->6->7
